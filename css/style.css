@@ -1,0 +1,223 @@
+.image-wrap img {
+    transition-behavior: normal;
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: zoom-in;
+}
+
+.image-wrap img:hover {
+    transform: scale(0.99);
+}
+
+.iframe-wrapper {
+    background: #a00070;
+}
+
+a:link {
+    color: rgb(0, 0, 0);
+    /* Колір невідвіданих посилань */
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+    /* Колір відвіданих посилань */
+}
+
+a:hover {
+    color: rgb(255, 0, 0);
+    /* Колір посилань при наведенні на них курсору миші */
+}
+
+a:active {
+    color: rgb(0, 0, 0);
+    /* Колір активних посилань */
+}
+
+a {
+    text-decoration: none;
+}
+
+#hero .background-wave {
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    top: 340px;
+    left: 0px;
+    z-index: -1;
+}
+
+#hero .hero-image {
+    max-width: 600px;
+}
+
+#hero .hero-image img {
+    width: 100%;
+}
+
+#brands img {
+    opacity: 0.3;
+}
+
+.col-md-4:empty {
+    display: table-cell;
+    height: 75px;
+}
+
+#ivyzc {
+    align-self: auto;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 0 20px 0;
+    display: flex;
+    position: relative;
+    opacity: 1;
+    text-align: left;
+    margin: 0 0 0;
+    left: 5%;
+}
+
+#igmtm {
+    margin: 7px 300px 8px 300px;
+    background: #FFFFFF;
+    display: flex;
+    justify-content: center;
+}
+
+#iv8g9 {
+    text-align: left;
+    left: 20%;
+    display: flex;
+    position: relative;
+}
+
+#ih27y {
+    text-align: left;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-self: auto;
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 0;
+    left: 20%;
+    position: relative;
+}
+
+#idwnc {
+    background: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 0 0 0 0;
+    margin: 0 170px 16px 170px;
+}
+
+#iue2zc {
+    background: #FFFFFF;
+    align-self: auto;
+    align-items: stretch;
+    justify-content: center;
+    display: flex;
+    margin: 0 170px 16px 170px;
+}
+
+#ilpa7 {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#iaypm3 {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#imlvp {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#iabz5 {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#iwbul {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#i971z {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#ivbw8 {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#i9xff {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#imep4 {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#iz3ms {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#iz5ir {
+    left: 20%;
+    display: flex;
+    position: relative;
+}
+
+#ih41r {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#iwvkq3 {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#ip20k {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#iraljr {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
+
+#io3w8b {
+    display: flex;
+    position: relative;
+    left: 20%;
+}
